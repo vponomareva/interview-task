@@ -11,7 +11,7 @@
 Склонировать репозиторий
 
 ```bash
-git clone ссылка_на_репозиторий
+git clone https://github.com/vponomareva/interview-task.git
 ```
 
 Создать виртуальную среду:
